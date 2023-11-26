@@ -1,0 +1,18 @@
+body {
+  background-color: #272625;
+  text-align: center;
+}
+
+p {
+  color: rgb(110, 110, 110);
+}
+
+img {
+  width: 550px;
+}
+h3 {
+  color:rgb(180, 180, 180);
+}
+button {
+  background-color: #777777;
+}
